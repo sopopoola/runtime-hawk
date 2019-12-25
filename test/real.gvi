@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ASCII"?>
+<BlockDiagram Id="acd15747dc7443edbb21f502473cf08e" xmlns="http://www.ni4.com/LabVIEW.VI">
+			<MethodCall Bounds="220 130 40 40" Id="2791cc99e54c437183d21e5853b48fa7" ResolveFailedHint="&quot;C:\\Users\\student\\AppData\\Local\\Temp\\NI.Temp\\LabVIEW NXG 3.1\\UP7ae7eefc-35fa-44a7-a12c-91c2dd7a4af3\\support\\Message Queue\\Create All Message Queues.gvi&quot;" Signature="@2fc6ab405f774fb2913589e38cb35635" Target="Create All Message Queues.gvi" xmlns="http://www.ni.com/MocCommon">
+				<p.MethodDeclaration>
+					<MethodDeclaration xmlns="http://www.ni.com/PlatformFramework">
+						<Parameter Id="L3" Desc="error in" />
+						<Parameter Id="R0" Desc="message queues" />
+						<Parameter Id="R3" Desc="error out" />
+					</MethodDeclaration>
+				</p.MethodDeclaration>
+				<Terminal DataType="Error" Direction="Input" Hotspot="0 35" Id="L3" xmlns="http://www.ni.com/PlatformFramework" />
+				<Terminal DataType="@21aa65d43fd047a4a6269c77b80e4fe2" Direction="Output" Hotspot="40 5" Id="R0" xmlns="http://www.ni.com/PlatformFramework" />
+				<Terminal DataType="Error" Direction="Output" Hotspot="40 35" Id="R3" xmlns="http://www.ni.com/PlatformFramework" />
+			</MethodCall>
+		</BlockDiagram>

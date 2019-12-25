@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ASCII"?>
+<BlockDiagram Id="acd15747dc7443edbb21f502473cf08e" xmlns="http://www.ni4.com/LabVIEW.VI">
+			<MethodCall Id="fgg">
+				<p.MethodDeclaration>
+					<MethodDeclaration>
+						<Parameter />
+					</MethodDeclaration>
+				</p.MethodDeclaration>
+				<Terminal />
+		</MethodCall>
+		<Obj />
+		</BlockDiagram>

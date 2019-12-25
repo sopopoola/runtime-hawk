@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ASCII"?>
+<BlockDiagram:BlockDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:BlockDiagram="http://www.ni.com/LabVIEW.VI" xmi:id="_ogyeENdnEemlndNCX9H-5g">
+  <MethodCall xmi:id="_0eIZ0NdnEemlndNCX9H-5g">
+    <p.MethodDeclaration xmi:id="_11AtMNdnEemlndNCX9H-5g">
+      <MethodDeclaration xmi:id="_2luYcNdnEemlndNCX9H-5g">
+        <Parameter xmi:id="_3cxVMNdnEemlndNCX9H-5g"/>
+      </MethodDeclaration>
+    </p.MethodDeclaration>
+    <Terminal xsi:type="BlockDiagram:EventPropertyItemTerminal" xmi:id="_5cUyINdnEemlndNCX9H-5g"/>
+    <Terminal xmi:id="_8TaUANdnEemlndNCX9H-5g" Id="test" Direction="unknow" xmlns="get"/>
+    <Terminal xmi:id="_RsLBUNdoEemlndNCX9H-5g"/>
+  </MethodCall>
+</BlockDiagram:BlockDiagram>

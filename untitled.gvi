@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ASCII"?>
+<BlockDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.ni.com/LabVIEW.VI" xmi:id="_q2SYUM7AEemqc-VrZ_YIeQ">
+  <Object xsi:type="MethodDeclaration" xmi:id="_0mqtQM7AEemqc-VrZ_YIeQ">
+    <Object xsi:type="Parameter" xmi:id="_1rtCsM7AEemqc-VrZ_YIeQ"/>
+  </Object>
+</BlockDiagram>
